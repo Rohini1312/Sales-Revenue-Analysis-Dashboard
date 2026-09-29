@@ -1,0 +1,501 @@
+Order_ID,Order_Date,Customer,Product,Category,Quantity,Unit_Price,Sales,Region,Payment_Method
+ORD0146,2026-01-01,Customer 005,Monitor,Electronics,5,12000,60000,Hyderabad,Cash
+ORD0111,2026-01-01,Customer 003,Smartwatch,Wearables,5,5000,25000,Delhi,Cash
+ORD0356,2026-01-01,Customer 019,Keyboard,Accessories,1,1500,1500,Pune,UPI
+ORD0347,2026-01-01,Customer 035,Smartphone,Electronics,5,25000,125000,Pune,UPI
+ORD0046,2026-01-02,Customer 001,Keyboard,Accessories,1,1500,1500,Pune,Cash
+ORD0220,2026-01-02,Customer 001,Keyboard,Accessories,2,1500,3000,Delhi,Cash
+ORD0374,2026-01-02,Customer 049,Mouse,Accessories,2,800,1600,Delhi,Cash
+ORD0330,2026-01-04,Customer 092,Smartwatch,Wearables,4,5000,20000,Mumbai,Credit Card
+ORD0226,2026-01-04,Customer 026,Mouse,Accessories,3,800,2400,Bengaluru,UPI
+ORD0070,2026-01-05,Customer 068,Keyboard,Accessories,4,1500,6000,Pune,UPI
+ORD0422,2026-01-05,Customer 083,Headphones,Accessories,3,2500,7500,Bengaluru,Credit Card
+ORD0145,2026-01-05,Customer 082,Smartphone,Electronics,3,25000,75000,Mumbai,Credit Card
+ORD0353,2026-01-05,Customer 086,Laptop,Electronics,5,55000,275000,Bengaluru,UPI
+ORD0058,2026-01-06,Customer 099,Mouse,Accessories,5,800,4000,Mumbai,UPI
+ORD0128,2026-01-06,Customer 092,Laptop,Electronics,3,55000,165000,Hyderabad,UPI
+ORD0429,2026-01-07,Customer 027,Monitor,Electronics,3,12000,36000,Mumbai,Credit Card
+ORD0412,2026-01-07,Customer 052,Mouse,Accessories,3,800,2400,Pune,UPI
+ORD0218,2026-01-07,Customer 074,Tablet,Electronics,2,18000,36000,Hyderabad,Debit Card
+ORD0119,2026-01-08,Customer 092,Smartwatch,Wearables,4,5000,20000,Mumbai,Credit Card
+ORD0150,2026-01-08,Customer 099,Keyboard,Accessories,1,1500,1500,Delhi,Cash
+ORD0213,2026-01-08,Customer 065,Smartphone,Electronics,5,25000,125000,Hyderabad,Debit Card
+ORD0274,2026-01-09,Customer 079,Keyboard,Accessories,2,1500,3000,Hyderabad,UPI
+ORD0380,2026-01-09,Customer 015,Laptop,Electronics,2,55000,110000,Bengaluru,Cash
+ORD0268,2026-01-09,Customer 099,Mouse,Accessories,1,800,800,Mumbai,Credit Card
+ORD0468,2026-01-10,Customer 021,Headphones,Accessories,1,2500,2500,Pune,Debit Card
+ORD0186,2026-01-10,Customer 005,Keyboard,Accessories,2,1500,3000,Chennai,Credit Card
+ORD0241,2026-01-12,Customer 019,Mouse,Accessories,2,800,1600,Delhi,Cash
+ORD0410,2026-01-12,Customer 049,Keyboard,Accessories,2,1500,3000,Bengaluru,Credit Card
+ORD0171,2026-01-13,Customer 040,Smartphone,Electronics,4,25000,100000,Bengaluru,Cash
+ORD0116,2026-01-14,Customer 015,Smartphone,Electronics,1,25000,25000,Hyderabad,UPI
+ORD0336,2026-01-14,Customer 078,Keyboard,Accessories,2,1500,3000,Bengaluru,Debit Card
+ORD0471,2026-01-14,Customer 034,Keyboard,Accessories,1,1500,1500,Delhi,UPI
+ORD0323,2026-01-14,Customer 075,Laptop,Electronics,4,55000,220000,Bengaluru,Credit Card
+ORD0238,2026-01-17,Customer 001,Laptop,Electronics,1,55000,55000,Hyderabad,UPI
+ORD0242,2026-01-17,Customer 074,Headphones,Accessories,3,2500,7500,Hyderabad,Debit Card
+ORD0288,2026-01-17,Customer 095,Laptop,Electronics,1,55000,55000,Bengaluru,Cash
+ORD0201,2026-01-17,Customer 043,Smartphone,Electronics,2,25000,50000,Chennai,Cash
+ORD0476,2026-01-20,Customer 017,Keyboard,Accessories,1,1500,1500,Mumbai,UPI
+ORD0301,2026-01-21,Customer 047,Keyboard,Accessories,4,1500,6000,Delhi,Debit Card
+ORD0499,2026-01-21,Customer 068,Smartphone,Electronics,2,25000,50000,Bengaluru,UPI
+ORD0369,2026-01-21,Customer 023,Tablet,Electronics,2,18000,36000,Chennai,Debit Card
+ORD0460,2026-01-22,Customer 092,Headphones,Accessories,1,2500,2500,Delhi,UPI
+ORD0322,2026-01-22,Customer 026,Smartwatch,Wearables,4,5000,20000,Chennai,Debit Card
+ORD0054,2026-01-22,Customer 030,Laptop,Electronics,4,55000,220000,Pune,Credit Card
+ORD0005,2026-01-22,Customer 089,Keyboard,Accessories,2,1500,3000,Hyderabad,Debit Card
+ORD0464,2026-01-23,Customer 029,Mouse,Accessories,3,800,2400,Pune,Debit Card
+ORD0181,2026-01-23,Customer 063,Mouse,Accessories,1,800,800,Hyderabad,UPI
+ORD0082,2026-01-23,Customer 010,Mouse,Accessories,5,800,4000,Pune,UPI
+ORD0474,2026-01-24,Customer 099,Keyboard,Accessories,2,1500,3000,Bengaluru,UPI
+ORD0418,2026-01-25,Customer 079,Smartwatch,Wearables,5,5000,25000,Mumbai,UPI
+ORD0417,2026-01-25,Customer 013,Monitor,Electronics,4,12000,48000,Delhi,Credit Card
+ORD0324,2026-01-25,Customer 045,Keyboard,Accessories,4,1500,6000,Chennai,Credit Card
+ORD0239,2026-01-25,Customer 039,Headphones,Accessories,2,2500,5000,Chennai,Debit Card
+ORD0157,2026-01-25,Customer 068,Monitor,Electronics,4,12000,48000,Bengaluru,Debit Card
+ORD0200,2026-01-25,Customer 090,Tablet,Electronics,4,18000,72000,Chennai,Credit Card
+ORD0166,2026-01-26,Customer 051,Smartphone,Electronics,3,25000,75000,Delhi,Cash
+ORD0246,2026-01-26,Customer 047,Laptop,Electronics,5,55000,275000,Bengaluru,Cash
+ORD0230,2026-01-27,Customer 057,Keyboard,Accessories,5,1500,7500,Pune,Debit Card
+ORD0300,2026-01-27,Customer 067,Mouse,Accessories,3,800,2400,Hyderabad,Credit Card
+ORD0151,2026-01-28,Customer 087,Tablet,Electronics,2,18000,36000,Pune,Cash
+ORD0339,2026-01-28,Customer 066,Headphones,Accessories,1,2500,2500,Chennai,UPI
+ORD0257,2026-01-29,Customer 062,Tablet,Electronics,4,18000,72000,Hyderabad,UPI
+ORD0461,2026-01-29,Customer 085,Smartphone,Electronics,2,25000,50000,Mumbai,Debit Card
+ORD0234,2026-01-29,Customer 021,Headphones,Accessories,2,2500,5000,Chennai,Cash
+ORD0138,2026-01-30,Customer 051,Tablet,Electronics,4,18000,72000,Hyderabad,UPI
+ORD0163,2026-01-31,Customer 040,Headphones,Accessories,3,2500,7500,Delhi,Cash
+ORD0296,2026-02-02,Customer 006,Tablet,Electronics,5,18000,90000,Chennai,Debit Card
+ORD0020,2026-02-02,Customer 048,Laptop,Electronics,4,55000,220000,Pune,Cash
+ORD0132,2026-02-03,Customer 092,Mouse,Accessories,1,800,800,Bengaluru,Credit Card
+ORD0377,2026-02-05,Customer 084,Monitor,Electronics,2,12000,24000,Mumbai,Credit Card
+ORD0065,2026-02-05,Customer 045,Laptop,Electronics,5,55000,275000,Mumbai,UPI
+ORD0405,2026-02-07,Customer 098,Smartwatch,Wearables,4,5000,20000,Delhi,Credit Card
+ORD0448,2026-02-07,Customer 096,Mouse,Accessories,2,800,1600,Mumbai,UPI
+ORD0253,2026-02-08,Customer 015,Tablet,Electronics,4,18000,72000,Hyderabad,Cash
+ORD0298,2026-02-08,Customer 015,Headphones,Accessories,5,2500,12500,Delhi,UPI
+ORD0081,2026-02-08,Customer 100,Smartwatch,Wearables,5,5000,25000,Hyderabad,Credit Card
+ORD0109,2026-02-08,Customer 067,Smartphone,Electronics,3,25000,75000,Delhi,UPI
+ORD0280,2026-02-09,Customer 091,Smartwatch,Wearables,2,5000,10000,Delhi,UPI
+ORD0337,2026-02-10,Customer 062,Monitor,Electronics,5,12000,60000,Pune,Cash
+ORD0017,2026-02-10,Customer 029,Keyboard,Accessories,4,1500,6000,Delhi,UPI
+ORD0024,2026-02-11,Customer 077,Tablet,Electronics,2,18000,36000,Chennai,Debit Card
+ORD0101,2026-02-11,Customer 058,Monitor,Electronics,5,12000,60000,Pune,Debit Card
+ORD0437,2026-02-11,Customer 021,Keyboard,Accessories,5,1500,7500,Bengaluru,UPI
+ORD0228,2026-02-11,Customer 100,Smartphone,Electronics,5,25000,125000,Hyderabad,Credit Card
+ORD0088,2026-02-12,Customer 044,Laptop,Electronics,2,55000,110000,Delhi,UPI
+ORD0421,2026-02-12,Customer 002,Mouse,Accessories,5,800,4000,Mumbai,Debit Card
+ORD0113,2026-02-13,Customer 045,Monitor,Electronics,2,12000,24000,Delhi,UPI
+ORD0014,2026-02-13,Customer 034,Smartphone,Electronics,2,25000,50000,Bengaluru,Credit Card
+ORD0123,2026-02-15,Customer 035,Monitor,Electronics,5,12000,60000,Delhi,Credit Card
+ORD0308,2026-02-15,Customer 015,Headphones,Accessories,4,2500,10000,Hyderabad,Credit Card
+ORD0189,2026-02-16,Customer 068,Monitor,Electronics,5,12000,60000,Mumbai,UPI
+ORD0079,2026-02-16,Customer 094,Keyboard,Accessories,5,1500,7500,Pune,Credit Card
+ORD0071,2026-02-16,Customer 099,Smartwatch,Wearables,4,5000,20000,Mumbai,Cash
+ORD0149,2026-02-17,Customer 061,Tablet,Electronics,3,18000,54000,Hyderabad,Credit Card
+ORD0449,2026-02-18,Customer 036,Tablet,Electronics,1,18000,18000,Pune,Cash
+ORD0206,2026-02-18,Customer 071,Keyboard,Accessories,5,1500,7500,Hyderabad,Cash
+ORD0012,2026-02-19,Customer 004,Laptop,Electronics,4,55000,220000,Bengaluru,Credit Card
+ORD0195,2026-02-20,Customer 029,Keyboard,Accessories,2,1500,3000,Pune,Cash
+ORD0447,2026-02-20,Customer 058,Headphones,Accessories,4,2500,10000,Delhi,UPI
+ORD0489,2026-02-20,Customer 019,Monitor,Electronics,1,12000,12000,Bengaluru,Debit Card
+ORD0131,2026-02-20,Customer 045,Laptop,Electronics,1,55000,55000,Delhi,Cash
+ORD0372,2026-02-21,Customer 027,Mouse,Accessories,3,800,2400,Delhi,Debit Card
+ORD0025,2026-02-21,Customer 096,Smartwatch,Wearables,1,5000,5000,Mumbai,Credit Card
+ORD0010,2026-02-22,Customer 002,Smartphone,Electronics,1,25000,25000,Mumbai,Cash
+ORD0100,2026-02-22,Customer 023,Keyboard,Accessories,3,1500,4500,Hyderabad,Debit Card
+ORD0016,2026-02-22,Customer 024,Monitor,Electronics,2,12000,24000,Bengaluru,UPI
+ORD0007,2026-02-24,Customer 064,Tablet,Electronics,3,18000,54000,Hyderabad,Debit Card
+ORD0396,2026-02-27,Customer 003,Mouse,Accessories,4,800,3200,Pune,Credit Card
+ORD0068,2026-02-27,Customer 086,Mouse,Accessories,2,800,1600,Hyderabad,Cash
+ORD0327,2026-02-28,Customer 003,Mouse,Accessories,5,800,4000,Mumbai,Credit Card
+ORD0176,2026-03-01,Customer 064,Headphones,Accessories,1,2500,2500,Delhi,Cash
+ORD0439,2026-03-01,Customer 048,Laptop,Electronics,2,55000,110000,Delhi,UPI
+ORD0487,2026-03-02,Customer 010,Monitor,Electronics,1,12000,12000,Bengaluru,Debit Card
+ORD0179,2026-03-03,Customer 004,Mouse,Accessories,2,800,1600,Hyderabad,UPI
+ORD0028,2026-03-03,Customer 057,Smartphone,Electronics,5,25000,125000,Delhi,Credit Card
+ORD0265,2026-03-04,Customer 054,Headphones,Accessories,4,2500,10000,Delhi,Debit Card
+ORD0428,2026-03-04,Customer 063,Mouse,Accessories,2,800,1600,Pune,Cash
+ORD0343,2026-03-05,Customer 084,Laptop,Electronics,1,55000,55000,Mumbai,UPI
+ORD0259,2026-03-06,Customer 094,Laptop,Electronics,2,55000,110000,Hyderabad,Debit Card
+ORD0432,2026-03-06,Customer 013,Tablet,Electronics,2,18000,36000,Delhi,Credit Card
+ORD0469,2026-03-07,Customer 041,Headphones,Accessories,3,2500,7500,Delhi,UPI
+ORD0215,2026-03-08,Customer 051,Tablet,Electronics,5,18000,90000,Hyderabad,Cash
+ORD0382,2026-03-09,Customer 050,Headphones,Accessories,5,2500,12500,Chennai,Cash
+ORD0099,2026-03-10,Customer 099,Smartphone,Electronics,5,25000,125000,Mumbai,UPI
+ORD0191,2026-03-10,Customer 020,Headphones,Accessories,3,2500,7500,Chennai,Credit Card
+ORD0140,2026-03-10,Customer 034,Laptop,Electronics,4,55000,220000,Pune,UPI
+ORD0384,2026-03-10,Customer 047,Laptop,Electronics,2,55000,110000,Hyderabad,Debit Card
+ORD0490,2026-03-10,Customer 093,Mouse,Accessories,2,800,1600,Delhi,Cash
+ORD0393,2026-03-11,Customer 041,Laptop,Electronics,3,55000,165000,Mumbai,UPI
+ORD0311,2026-03-13,Customer 021,Monitor,Electronics,1,12000,12000,Bengaluru,Credit Card
+ORD0261,2026-03-14,Customer 015,Smartwatch,Wearables,1,5000,5000,Hyderabad,UPI
+ORD0491,2026-03-15,Customer 064,Laptop,Electronics,5,55000,275000,Delhi,Cash
+ORD0135,2026-03-16,Customer 051,Mouse,Accessories,2,800,1600,Pune,Cash
+ORD0486,2026-03-16,Customer 009,Mouse,Accessories,4,800,3200,Bengaluru,Cash
+ORD0314,2026-03-17,Customer 046,Headphones,Accessories,1,2500,2500,Pune,Credit Card
+ORD0355,2026-03-17,Customer 091,Smartwatch,Wearables,1,5000,5000,Hyderabad,Credit Card
+ORD0317,2026-03-18,Customer 026,Mouse,Accessories,1,800,800,Pune,Debit Card
+ORD0147,2026-03-19,Customer 090,Smartphone,Electronics,2,25000,50000,Delhi,Debit Card
+ORD0114,2026-03-21,Customer 085,Tablet,Electronics,5,18000,90000,Chennai,Cash
+ORD0243,2026-03-21,Customer 088,Laptop,Electronics,4,55000,220000,Chennai,Cash
+ORD0244,2026-03-22,Customer 087,Tablet,Electronics,5,18000,90000,Delhi,Credit Card
+ORD0223,2026-03-22,Customer 074,Monitor,Electronics,4,12000,48000,Pune,Cash
+ORD0326,2026-03-23,Customer 070,Monitor,Electronics,3,12000,36000,Bengaluru,Debit Card
+ORD0361,2026-03-23,Customer 013,Mouse,Accessories,2,800,1600,Hyderabad,Debit Card
+ORD0249,2026-03-23,Customer 095,Tablet,Electronics,5,18000,90000,Pune,Cash
+ORD0424,2026-03-24,Customer 009,Smartwatch,Wearables,1,5000,5000,Chennai,UPI
+ORD0130,2026-03-24,Customer 017,Monitor,Electronics,2,12000,24000,Delhi,Credit Card
+ORD0338,2026-03-25,Customer 002,Monitor,Electronics,1,12000,12000,Pune,UPI
+ORD0078,2026-03-27,Customer 057,Smartwatch,Wearables,3,5000,15000,Delhi,Credit Card
+ORD0470,2026-03-27,Customer 090,Keyboard,Accessories,4,1500,6000,Bengaluru,Credit Card
+ORD0430,2026-03-27,Customer 005,Mouse,Accessories,5,800,4000,Pune,Debit Card
+ORD0247,2026-03-27,Customer 007,Tablet,Electronics,1,18000,18000,Pune,Debit Card
+ORD0443,2026-03-28,Customer 008,Keyboard,Accessories,1,1500,1500,Delhi,Cash
+ORD0462,2026-03-29,Customer 044,Smartphone,Electronics,3,25000,75000,Delhi,Credit Card
+ORD0009,2026-03-30,Customer 060,Smartphone,Electronics,4,25000,100000,Pune,Credit Card
+ORD0271,2026-03-30,Customer 073,Smartwatch,Wearables,5,5000,25000,Mumbai,Credit Card
+ORD0245,2026-03-30,Customer 012,Smartwatch,Wearables,1,5000,5000,Chennai,Credit Card
+ORD0090,2026-03-31,Customer 034,Smartwatch,Wearables,5,5000,25000,Chennai,UPI
+ORD0357,2026-03-31,Customer 062,Smartwatch,Wearables,5,5000,25000,Mumbai,Credit Card
+ORD0073,2026-04-02,Customer 058,Smartwatch,Wearables,3,5000,15000,Bengaluru,UPI
+ORD0364,2026-04-03,Customer 089,Smartphone,Electronics,5,25000,125000,Hyderabad,UPI
+ORD0328,2026-04-03,Customer 054,Headphones,Accessories,3,2500,7500,Hyderabad,Debit Card
+ORD0341,2026-04-03,Customer 010,Headphones,Accessories,2,2500,5000,Mumbai,Credit Card
+ORD0144,2026-04-03,Customer 032,Headphones,Accessories,3,2500,7500,Bengaluru,UPI
+ORD0165,2026-04-04,Customer 051,Mouse,Accessories,1,800,800,Pune,UPI
+ORD0173,2026-04-04,Customer 095,Smartwatch,Wearables,3,5000,15000,Hyderabad,UPI
+ORD0162,2026-04-05,Customer 024,Tablet,Electronics,4,18000,72000,Hyderabad,Debit Card
+ORD0190,2026-04-05,Customer 036,Smartphone,Electronics,3,25000,75000,Mumbai,Credit Card
+ORD0312,2026-04-05,Customer 038,Smartwatch,Wearables,2,5000,10000,Chennai,UPI
+ORD0084,2026-04-06,Customer 001,Headphones,Accessories,2,2500,5000,Delhi,UPI
+ORD0216,2026-04-06,Customer 088,Tablet,Electronics,2,18000,36000,Pune,Cash
+ORD0185,2026-04-07,Customer 027,Mouse,Accessories,1,800,800,Hyderabad,Credit Card
+ORD0136,2026-04-08,Customer 082,Keyboard,Accessories,2,1500,3000,Pune,Debit Card
+ORD0039,2026-04-08,Customer 070,Tablet,Electronics,5,18000,90000,Pune,Debit Card
+ORD0493,2026-04-10,Customer 070,Laptop,Electronics,1,55000,55000,Hyderabad,Credit Card
+ORD0069,2026-04-11,Customer 097,Smartphone,Electronics,3,25000,75000,Delhi,Cash
+ORD0022,2026-04-11,Customer 047,Laptop,Electronics,3,55000,165000,Pune,Debit Card
+ORD0087,2026-04-11,Customer 012,Headphones,Accessories,3,2500,7500,Chennai,UPI
+ORD0360,2026-04-12,Customer 004,Keyboard,Accessories,2,1500,3000,Pune,Debit Card
+ORD0365,2026-04-12,Customer 090,Smartwatch,Wearables,1,5000,5000,Chennai,Debit Card
+ORD0313,2026-04-12,Customer 041,Laptop,Electronics,1,55000,55000,Chennai,Credit Card
+ORD0250,2026-04-13,Customer 017,Tablet,Electronics,3,18000,54000,Pune,Debit Card
+ORD0426,2026-04-13,Customer 040,Keyboard,Accessories,4,1500,6000,Hyderabad,UPI
+ORD0180,2026-04-14,Customer 014,Smartphone,Electronics,1,25000,25000,Chennai,UPI
+ORD0182,2026-04-14,Customer 051,Laptop,Electronics,1,55000,55000,Chennai,Credit Card
+ORD0402,2026-04-14,Customer 005,Keyboard,Accessories,3,1500,4500,Mumbai,Cash
+ORD0266,2026-04-17,Customer 098,Monitor,Electronics,2,12000,24000,Hyderabad,Credit Card
+ORD0240,2026-04-18,Customer 044,Smartphone,Electronics,5,25000,125000,Chennai,Credit Card
+ORD0251,2026-04-18,Customer 060,Smartwatch,Wearables,3,5000,15000,Delhi,Credit Card
+ORD0029,2026-04-18,Customer 044,Keyboard,Accessories,4,1500,6000,Mumbai,Credit Card
+ORD0444,2026-04-19,Customer 051,Laptop,Electronics,3,55000,165000,Chennai,Cash
+ORD0416,2026-04-20,Customer 080,Tablet,Electronics,1,18000,18000,Pune,Credit Card
+ORD0193,2026-04-21,Customer 060,Laptop,Electronics,1,55000,55000,Chennai,Cash
+ORD0321,2026-04-21,Customer 007,Mouse,Accessories,4,800,3200,Chennai,Cash
+ORD0153,2026-04-21,Customer 023,Headphones,Accessories,3,2500,7500,Pune,Debit Card
+ORD0219,2026-04-22,Customer 019,Monitor,Electronics,3,12000,36000,Mumbai,UPI
+ORD0134,2026-04-22,Customer 047,Monitor,Electronics,3,12000,36000,Delhi,UPI
+ORD0049,2026-04-23,Customer 072,Keyboard,Accessories,3,1500,4500,Mumbai,Credit Card
+ORD0488,2026-04-23,Customer 094,Monitor,Electronics,3,12000,36000,Pune,Credit Card
+ORD0035,2026-04-23,Customer 056,Keyboard,Accessories,4,1500,6000,Hyderabad,Debit Card
+ORD0168,2026-04-23,Customer 012,Laptop,Electronics,4,55000,220000,Hyderabad,Credit Card
+ORD0235,2026-04-23,Customer 059,Headphones,Accessories,4,2500,10000,Chennai,Credit Card
+ORD0354,2026-04-24,Customer 082,Tablet,Electronics,2,18000,36000,Hyderabad,Credit Card
+ORD0278,2026-04-24,Customer 040,Monitor,Electronics,1,12000,12000,Delhi,Cash
+ORD0091,2026-04-24,Customer 075,Tablet,Electronics,4,18000,72000,Delhi,Cash
+ORD0224,2026-04-25,Customer 081,Headphones,Accessories,1,2500,2500,Pune,UPI
+ORD0279,2026-04-25,Customer 058,Mouse,Accessories,5,800,4000,Chennai,Cash
+ORD0367,2026-04-27,Customer 093,Smartwatch,Wearables,2,5000,10000,Bengaluru,UPI
+ORD0199,2026-04-27,Customer 026,Laptop,Electronics,2,55000,110000,Hyderabad,Debit Card
+ORD0484,2026-04-28,Customer 045,Headphones,Accessories,1,2500,2500,Hyderabad,UPI
+ORD0379,2026-04-28,Customer 021,Headphones,Accessories,5,2500,12500,Pune,Cash
+ORD0167,2026-04-28,Customer 068,Monitor,Electronics,2,12000,24000,Chennai,Cash
+ORD0031,2026-05-01,Customer 077,Mouse,Accessories,1,800,800,Hyderabad,Debit Card
+ORD0403,2026-05-01,Customer 030,Smartwatch,Wearables,4,5000,20000,Delhi,Cash
+ORD0105,2026-05-02,Customer 066,Smartwatch,Wearables,2,5000,10000,Delhi,UPI
+ORD0075,2026-05-02,Customer 001,Laptop,Electronics,2,55000,110000,Bengaluru,Cash
+ORD0456,2026-05-02,Customer 032,Laptop,Electronics,5,55000,275000,Pune,Debit Card
+ORD0319,2026-05-03,Customer 006,Tablet,Electronics,4,18000,72000,Hyderabad,Credit Card
+ORD0454,2026-05-04,Customer 089,Laptop,Electronics,1,55000,55000,Bengaluru,Credit Card
+ORD0072,2026-05-04,Customer 030,Monitor,Electronics,2,12000,24000,Chennai,UPI
+ORD0370,2026-05-04,Customer 015,Smartwatch,Wearables,5,5000,25000,Hyderabad,Cash
+ORD0381,2026-05-05,Customer 042,Smartphone,Electronics,1,25000,25000,Hyderabad,Credit Card
+ORD0141,2026-05-06,Customer 043,Smartphone,Electronics,5,25000,125000,Chennai,Debit Card
+ORD0110,2026-05-06,Customer 058,Smartphone,Electronics,4,25000,100000,Mumbai,Cash
+ORD0037,2026-05-06,Customer 002,Monitor,Electronics,1,12000,12000,Delhi,Cash
+ORD0458,2026-05-06,Customer 008,Monitor,Electronics,5,12000,60000,Pune,Cash
+ORD0156,2026-05-06,Customer 044,Tablet,Electronics,2,18000,36000,Hyderabad,UPI
+ORD0074,2026-05-07,Customer 009,Smartphone,Electronics,5,25000,125000,Mumbai,UPI
+ORD0419,2026-05-08,Customer 096,Keyboard,Accessories,4,1500,6000,Mumbai,UPI
+ORD0030,2026-05-08,Customer 092,Mouse,Accessories,3,800,2400,Hyderabad,Debit Card
+ORD0465,2026-05-08,Customer 008,Keyboard,Accessories,1,1500,1500,Bengaluru,Credit Card
+ORD0043,2026-05-09,Customer 011,Laptop,Electronics,2,55000,110000,Mumbai,UPI
+ORD0018,2026-05-09,Customer 008,Laptop,Electronics,1,55000,55000,Chennai,Debit Card
+ORD0362,2026-05-09,Customer 088,Headphones,Accessories,5,2500,12500,Pune,Credit Card
+ORD0346,2026-05-10,Customer 073,Headphones,Accessories,5,2500,12500,Delhi,Cash
+ORD0394,2026-05-10,Customer 060,Laptop,Electronics,4,55000,220000,Delhi,Cash
+ORD0036,2026-05-10,Customer 092,Laptop,Electronics,2,55000,110000,Pune,Debit Card
+ORD0299,2026-05-10,Customer 047,Headphones,Accessories,4,2500,10000,Pune,Cash
+ORD0107,2026-05-12,Customer 036,Laptop,Electronics,1,55000,55000,Pune,Cash
+ORD0194,2026-05-13,Customer 037,Keyboard,Accessories,4,1500,6000,Bengaluru,UPI
+ORD0342,2026-05-13,Customer 020,Laptop,Electronics,1,55000,55000,Chennai,Cash
+ORD0053,2026-05-15,Customer 067,Monitor,Electronics,4,12000,48000,Hyderabad,Cash
+ORD0008,2026-05-15,Customer 021,Monitor,Electronics,3,12000,36000,Hyderabad,Debit Card
+ORD0373,2026-05-16,Customer 016,Keyboard,Accessories,3,1500,4500,Bengaluru,Cash
+ORD0106,2026-05-16,Customer 065,Monitor,Electronics,3,12000,36000,Pune,Cash
+ORD0032,2026-05-17,Customer 062,Tablet,Electronics,3,18000,54000,Delhi,UPI
+ORD0175,2026-05-17,Customer 034,Smartwatch,Wearables,3,5000,15000,Mumbai,Debit Card
+ORD0273,2026-05-17,Customer 067,Keyboard,Accessories,5,1500,7500,Hyderabad,Credit Card
+ORD0139,2026-05-18,Customer 056,Monitor,Electronics,4,12000,48000,Hyderabad,Credit Card
+ORD0387,2026-05-18,Customer 073,Smartwatch,Wearables,3,5000,15000,Pune,UPI
+ORD0446,2026-05-19,Customer 052,Mouse,Accessories,4,800,3200,Chennai,Debit Card
+ORD0169,2026-05-19,Customer 100,Mouse,Accessories,5,800,4000,Delhi,Debit Card
+ORD0262,2026-05-20,Customer 059,Smartwatch,Wearables,4,5000,20000,Bengaluru,UPI
+ORD0256,2026-05-21,Customer 018,Headphones,Accessories,5,2500,12500,Chennai,Debit Card
+ORD0409,2026-05-23,Customer 086,Smartphone,Electronics,3,25000,75000,Mumbai,UPI
+ORD0386,2026-05-23,Customer 035,Smartwatch,Wearables,5,5000,25000,Mumbai,Debit Card
+ORD0066,2026-05-23,Customer 092,Smartwatch,Wearables,4,5000,20000,Bengaluru,Credit Card
+ORD0026,2026-05-23,Customer 043,Monitor,Electronics,5,12000,60000,Delhi,Cash
+ORD0401,2026-05-24,Customer 030,Keyboard,Accessories,3,1500,4500,Delhi,Debit Card
+ORD0045,2026-05-24,Customer 090,Headphones,Accessories,4,2500,10000,Hyderabad,Cash
+ORD0117,2026-05-24,Customer 087,Mouse,Accessories,3,800,2400,Hyderabad,Debit Card
+ORD0208,2026-05-24,Customer 040,Laptop,Electronics,5,55000,275000,Chennai,Credit Card
+ORD0305,2026-05-25,Customer 093,Keyboard,Accessories,1,1500,1500,Delhi,Cash
+ORD0400,2026-05-25,Customer 016,Tablet,Electronics,4,18000,72000,Mumbai,Cash
+ORD0260,2026-05-26,Customer 062,Monitor,Electronics,2,12000,24000,Delhi,UPI
+ORD0383,2026-05-26,Customer 019,Keyboard,Accessories,2,1500,3000,Mumbai,Credit Card
+ORD0158,2026-05-26,Customer 100,Laptop,Electronics,5,55000,275000,Pune,Credit Card
+ORD0389,2026-05-26,Customer 067,Headphones,Accessories,5,2500,12500,Bengaluru,Credit Card
+ORD0420,2026-05-26,Customer 093,Tablet,Electronics,4,18000,72000,Mumbai,Debit Card
+ORD0042,2026-05-27,Customer 020,Smartphone,Electronics,3,25000,75000,Mumbai,UPI
+ORD0056,2026-05-27,Customer 004,Monitor,Electronics,1,12000,12000,Chennai,Cash
+ORD0041,2026-05-28,Customer 059,Monitor,Electronics,3,12000,36000,Mumbai,Debit Card
+ORD0445,2026-05-28,Customer 021,Laptop,Electronics,5,55000,275000,Bengaluru,Debit Card
+ORD0485,2026-05-28,Customer 047,Mouse,Accessories,4,800,3200,Chennai,Debit Card
+ORD0198,2026-05-29,Customer 047,Tablet,Electronics,3,18000,54000,Hyderabad,UPI
+ORD0161,2026-05-30,Customer 021,Mouse,Accessories,5,800,4000,Pune,Credit Card
+ORD0406,2026-05-31,Customer 066,Keyboard,Accessories,1,1500,1500,Hyderabad,UPI
+ORD0044,2026-05-31,Customer 031,Laptop,Electronics,2,55000,110000,Pune,Credit Card
+ORD0062,2026-05-31,Customer 066,Smartwatch,Wearables,2,5000,10000,Chennai,Credit Card
+ORD0142,2026-05-31,Customer 055,Tablet,Electronics,1,18000,18000,Chennai,Credit Card
+ORD0331,2026-06-01,Customer 050,Keyboard,Accessories,4,1500,6000,Hyderabad,Debit Card
+ORD0003,2026-06-01,Customer 003,Monitor,Electronics,4,12000,48000,Pune,UPI
+ORD0480,2026-06-01,Customer 076,Laptop,Electronics,3,55000,165000,Pune,Credit Card
+ORD0048,2026-06-01,Customer 054,Headphones,Accessories,3,2500,7500,Hyderabad,Cash
+ORD0067,2026-06-02,Customer 058,Smartwatch,Wearables,3,5000,15000,Pune,UPI
+ORD0152,2026-06-03,Customer 014,Smartphone,Electronics,5,25000,125000,Chennai,Cash
+ORD0204,2026-06-05,Customer 085,Headphones,Accessories,2,2500,5000,Hyderabad,Debit Card
+ORD0345,2026-06-05,Customer 079,Laptop,Electronics,4,55000,220000,Pune,Cash
+ORD0411,2026-06-07,Customer 088,Smartphone,Electronics,5,25000,125000,Bengaluru,Credit Card
+ORD0187,2026-06-08,Customer 047,Laptop,Electronics,5,55000,275000,Mumbai,UPI
+ORD0479,2026-06-08,Customer 060,Smartphone,Electronics,3,25000,75000,Mumbai,Debit Card
+ORD0376,2026-06-08,Customer 071,Tablet,Electronics,5,18000,90000,Hyderabad,Credit Card
+ORD0500,2026-06-09,Customer 075,Headphones,Accessories,2,2500,5000,Mumbai,Cash
+ORD0085,2026-06-09,Customer 091,Keyboard,Accessories,2,1500,3000,Mumbai,Cash
+ORD0270,2026-06-09,Customer 099,Smartwatch,Wearables,3,5000,15000,Pune,UPI
+ORD0285,2026-06-09,Customer 053,Headphones,Accessories,2,2500,5000,Pune,Debit Card
+ORD0047,2026-06-09,Customer 009,Monitor,Electronics,5,12000,60000,Hyderabad,Debit Card
+ORD0052,2026-06-10,Customer 068,Monitor,Electronics,1,12000,12000,Hyderabad,Credit Card
+ORD0203,2026-06-10,Customer 049,Keyboard,Accessories,5,1500,7500,Delhi,Debit Card
+ORD0385,2026-06-10,Customer 021,Keyboard,Accessories,2,1500,3000,Hyderabad,Credit Card
+ORD0358,2026-06-10,Customer 041,Smartphone,Electronics,1,25000,25000,Hyderabad,Cash
+ORD0348,2026-06-10,Customer 051,Monitor,Electronics,3,12000,36000,Pune,Cash
+ORD0315,2026-06-10,Customer 074,Keyboard,Accessories,4,1500,6000,Bengaluru,Cash
+ORD0212,2026-06-11,Customer 097,Smartphone,Electronics,2,25000,50000,Mumbai,Cash
+ORD0086,2026-06-12,Customer 033,Keyboard,Accessories,2,1500,3000,Hyderabad,UPI
+ORD0303,2026-06-12,Customer 064,Tablet,Electronics,2,18000,36000,Hyderabad,UPI
+ORD0289,2026-06-12,Customer 070,Smartwatch,Wearables,5,5000,25000,Chennai,Credit Card
+ORD0496,2026-06-12,Customer 055,Mouse,Accessories,4,800,3200,Mumbai,Credit Card
+ORD0102,2026-06-12,Customer 087,Smartphone,Electronics,5,25000,125000,Delhi,Debit Card
+ORD0413,2026-06-12,Customer 066,Tablet,Electronics,5,18000,90000,Chennai,Credit Card
+ORD0340,2026-06-13,Customer 045,Monitor,Electronics,1,12000,12000,Chennai,Credit Card
+ORD0392,2026-06-13,Customer 003,Keyboard,Accessories,5,1500,7500,Hyderabad,Cash
+ORD0178,2026-06-14,Customer 005,Headphones,Accessories,5,2500,12500,Chennai,Debit Card
+ORD0217,2026-06-14,Customer 054,Smartwatch,Wearables,3,5000,15000,Delhi,Credit Card
+ORD0229,2026-06-14,Customer 025,Smartphone,Electronics,1,25000,25000,Pune,Credit Card
+ORD0281,2026-06-17,Customer 092,Laptop,Electronics,3,55000,165000,Hyderabad,Debit Card
+ORD0450,2026-06-18,Customer 089,Mouse,Accessories,1,800,800,Bengaluru,Debit Card
+ORD0064,2026-06-19,Customer 026,Mouse,Accessories,5,800,4000,Chennai,Credit Card
+ORD0252,2026-06-20,Customer 040,Headphones,Accessories,5,2500,12500,Bengaluru,Debit Card
+ORD0033,2026-06-21,Customer 024,Headphones,Accessories,2,2500,5000,Chennai,Credit Card
+ORD0021,2026-06-21,Customer 086,Monitor,Electronics,3,12000,36000,Chennai,Debit Card
+ORD0378,2026-06-21,Customer 045,Tablet,Electronics,1,18000,18000,Bengaluru,Debit Card
+ORD0057,2026-06-21,Customer 092,Laptop,Electronics,1,55000,55000,Pune,UPI
+ORD0325,2026-06-22,Customer 008,Headphones,Accessories,4,2500,10000,Delhi,Debit Card
+ORD0442,2026-06-22,Customer 083,Laptop,Electronics,1,55000,55000,Delhi,Cash
+ORD0306,2026-06-23,Customer 050,Tablet,Electronics,3,18000,54000,Mumbai,Debit Card
+ORD0318,2026-06-23,Customer 015,Smartphone,Electronics,2,25000,50000,Bengaluru,Credit Card
+ORD0209,2026-06-24,Customer 066,Laptop,Electronics,3,55000,165000,Pune,Cash
+ORD0344,2026-06-24,Customer 076,Headphones,Accessories,5,2500,12500,Delhi,UPI
+ORD0248,2026-06-25,Customer 072,Monitor,Electronics,1,12000,12000,Bengaluru,Debit Card
+ORD0277,2026-06-25,Customer 077,Monitor,Electronics,4,12000,48000,Mumbai,UPI
+ORD0276,2026-06-25,Customer 090,Mouse,Accessories,3,800,2400,Bengaluru,Credit Card
+ORD0205,2026-06-26,Customer 020,Laptop,Electronics,4,55000,220000,Pune,Credit Card
+ORD0127,2026-06-26,Customer 077,Smartphone,Electronics,1,25000,25000,Hyderabad,Credit Card
+ORD0093,2026-06-26,Customer 099,Laptop,Electronics,3,55000,165000,Mumbai,Credit Card
+ORD0269,2026-06-27,Customer 082,Laptop,Electronics,5,55000,275000,Pune,UPI
+ORD0170,2026-06-27,Customer 010,Headphones,Accessories,1,2500,2500,Delhi,Debit Card
+ORD0351,2026-06-27,Customer 023,Tablet,Electronics,3,18000,54000,Mumbai,Credit Card
+ORD0120,2026-06-27,Customer 028,Smartwatch,Wearables,2,5000,10000,Mumbai,UPI
+ORD0183,2026-06-28,Customer 072,Mouse,Accessories,3,800,2400,Bengaluru,Cash
+ORD0083,2026-06-29,Customer 095,Keyboard,Accessories,2,1500,3000,Bengaluru,Credit Card
+ORD0034,2026-06-29,Customer 062,Smartwatch,Wearables,1,5000,5000,Hyderabad,Credit Card
+ORD0307,2026-06-30,Customer 024,Headphones,Accessories,5,2500,12500,Mumbai,Credit Card
+ORD0349,2026-06-30,Customer 088,Smartphone,Electronics,4,25000,100000,Chennai,Debit Card
+ORD0059,2026-06-30,Customer 095,Monitor,Electronics,5,12000,60000,Chennai,Cash
+ORD0202,2026-07-01,Customer 024,Headphones,Accessories,3,2500,7500,Hyderabad,Debit Card
+ORD0497,2026-07-01,Customer 095,Smartwatch,Wearables,2,5000,10000,Bengaluru,UPI
+ORD0197,2026-07-01,Customer 087,Smartphone,Electronics,4,25000,100000,Hyderabad,UPI
+ORD0108,2026-07-01,Customer 039,Tablet,Electronics,3,18000,54000,Chennai,Credit Card
+ORD0482,2026-07-02,Customer 097,Mouse,Accessories,1,800,800,Bengaluru,Debit Card
+ORD0188,2026-07-03,Customer 015,Smartwatch,Wearables,4,5000,20000,Delhi,Cash
+ORD0143,2026-07-03,Customer 025,Smartwatch,Wearables,4,5000,20000,Chennai,Cash
+ORD0473,2026-07-05,Customer 004,Headphones,Accessories,5,2500,12500,Delhi,Cash
+ORD0096,2026-07-06,Customer 019,Laptop,Electronics,5,55000,275000,Hyderabad,Cash
+ORD0006,2026-07-07,Customer 080,Headphones,Accessories,2,2500,5000,Pune,Credit Card
+ORD0434,2026-07-07,Customer 011,Monitor,Electronics,4,12000,48000,Delhi,Cash
+ORD0494,2026-07-07,Customer 057,Mouse,Accessories,4,800,3200,Mumbai,Cash
+ORD0463,2026-07-08,Customer 097,Headphones,Accessories,5,2500,12500,Chennai,Debit Card
+ORD0425,2026-07-09,Customer 007,Laptop,Electronics,4,55000,220000,Mumbai,UPI
+ORD0015,2026-07-09,Customer 040,Keyboard,Accessories,4,1500,6000,Delhi,Cash
+ORD0408,2026-07-09,Customer 023,Headphones,Accessories,4,2500,10000,Bengaluru,Cash
+ORD0232,2026-07-09,Customer 046,Laptop,Electronics,2,55000,110000,Bengaluru,Cash
+ORD0060,2026-07-10,Customer 085,Laptop,Electronics,4,55000,220000,Hyderabad,Cash
+ORD0112,2026-07-10,Customer 025,Mouse,Accessories,1,800,800,Hyderabad,Credit Card
+ORD0283,2026-07-10,Customer 027,Smartphone,Electronics,4,25000,100000,Pune,Cash
+ORD0481,2026-07-11,Customer 019,Mouse,Accessories,5,800,4000,Delhi,Cash
+ORD0438,2026-07-11,Customer 017,Laptop,Electronics,1,55000,55000,Hyderabad,UPI
+ORD0004,2026-07-11,Customer 060,Smartphone,Electronics,4,25000,100000,Delhi,UPI
+ORD0121,2026-07-11,Customer 027,Laptop,Electronics,4,55000,220000,Pune,Debit Card
+ORD0293,2026-07-12,Customer 022,Laptop,Electronics,4,55000,220000,Bengaluru,Cash
+ORD0233,2026-07-12,Customer 051,Mouse,Accessories,3,800,2400,Delhi,Cash
+ORD0051,2026-07-13,Customer 054,Headphones,Accessories,1,2500,2500,Chennai,Cash
+ORD0221,2026-07-14,Customer 087,Headphones,Accessories,2,2500,5000,Mumbai,Cash
+ORD0435,2026-07-15,Customer 034,Smartwatch,Wearables,5,5000,25000,Mumbai,Cash
+ORD0263,2026-07-17,Customer 039,Monitor,Electronics,5,12000,60000,Pune,Cash
+ORD0040,2026-07-20,Customer 059,Tablet,Electronics,1,18000,18000,Pune,Cash
+ORD0237,2026-07-20,Customer 026,Headphones,Accessories,4,2500,10000,Bengaluru,UPI
+ORD0475,2026-07-21,Customer 038,Mouse,Accessories,5,800,4000,Pune,Cash
+ORD0155,2026-07-21,Customer 039,Monitor,Electronics,4,12000,48000,Hyderabad,UPI
+ORD0038,2026-07-22,Customer 056,Smartphone,Electronics,4,25000,100000,Chennai,UPI
+ORD0320,2026-07-23,Customer 008,Laptop,Electronics,1,55000,55000,Bengaluru,Cash
+ORD0080,2026-07-23,Customer 016,Keyboard,Accessories,5,1500,7500,Bengaluru,Credit Card
+ORD0414,2026-07-25,Customer 020,Headphones,Accessories,2,2500,5000,Bengaluru,Cash
+ORD0098,2026-07-25,Customer 095,Tablet,Electronics,4,18000,72000,Mumbai,Debit Card
+ORD0399,2026-07-27,Customer 062,Keyboard,Accessories,5,1500,7500,Pune,UPI
+ORD0254,2026-07-29,Customer 033,Monitor,Electronics,1,12000,12000,Delhi,Credit Card
+ORD0207,2026-07-30,Customer 062,Monitor,Electronics,3,12000,36000,Pune,UPI
+ORD0122,2026-07-31,Customer 077,Laptop,Electronics,1,55000,55000,Mumbai,Cash
+ORD0329,2026-08-01,Customer 031,Keyboard,Accessories,1,1500,1500,Bengaluru,UPI
+ORD0433,2026-08-01,Customer 053,Smartphone,Electronics,5,25000,125000,Bengaluru,UPI
+ORD0455,2026-08-01,Customer 044,Keyboard,Accessories,4,1500,6000,Chennai,Credit Card
+ORD0363,2026-08-01,Customer 015,Tablet,Electronics,1,18000,18000,Hyderabad,Cash
+ORD0495,2026-08-01,Customer 030,Laptop,Electronics,4,55000,220000,Mumbai,Credit Card
+ORD0310,2026-08-02,Customer 002,Mouse,Accessories,1,800,800,Chennai,Cash
+ORD0002,2026-08-03,Customer 075,Tablet,Electronics,2,18000,36000,Chennai,Cash
+ORD0227,2026-08-03,Customer 037,Monitor,Electronics,2,12000,24000,Chennai,Credit Card
+ORD0477,2026-08-04,Customer 080,Mouse,Accessories,3,800,2400,Bengaluru,Debit Card
+ORD0350,2026-08-05,Customer 050,Mouse,Accessories,2,800,1600,Delhi,UPI
+ORD0023,2026-08-06,Customer 014,Laptop,Electronics,5,55000,275000,Chennai,UPI
+ORD0192,2026-08-06,Customer 013,Smartphone,Electronics,2,25000,50000,Pune,Credit Card
+ORD0391,2026-08-06,Customer 042,Headphones,Accessories,4,2500,10000,Delhi,Credit Card
+ORD0164,2026-08-08,Customer 075,Smartwatch,Wearables,2,5000,10000,Mumbai,Debit Card
+ORD0427,2026-08-09,Customer 052,Tablet,Electronics,4,18000,72000,Mumbai,Cash
+ORD0210,2026-08-10,Customer 038,Laptop,Electronics,2,55000,110000,Chennai,Debit Card
+ORD0291,2026-08-10,Customer 037,Keyboard,Accessories,4,1500,6000,Delhi,Credit Card
+ORD0061,2026-08-11,Customer 054,Headphones,Accessories,2,2500,5000,Bengaluru,Debit Card
+ORD0118,2026-08-12,Customer 016,Keyboard,Accessories,2,1500,3000,Pune,Cash
+ORD0459,2026-08-12,Customer 075,Mouse,Accessories,4,800,3200,Pune,Credit Card
+ORD0287,2026-08-12,Customer 013,Keyboard,Accessories,2,1500,3000,Pune,Debit Card
+ORD0467,2026-08-12,Customer 064,Smartwatch,Wearables,3,5000,15000,Bengaluru,Credit Card
+ORD0126,2026-08-12,Customer 049,Laptop,Electronics,2,55000,110000,Chennai,UPI
+ORD0316,2026-08-13,Customer 033,Laptop,Electronics,2,55000,110000,Hyderabad,UPI
+ORD0335,2026-08-13,Customer 099,Smartphone,Electronics,5,25000,125000,Bengaluru,Cash
+ORD0264,2026-08-14,Customer 025,Headphones,Accessories,5,2500,12500,Mumbai,Cash
+ORD0297,2026-08-14,Customer 029,Smartphone,Electronics,2,25000,50000,Mumbai,UPI
+ORD0275,2026-08-14,Customer 088,Headphones,Accessories,3,2500,7500,Mumbai,Debit Card
+ORD0160,2026-08-14,Customer 059,Monitor,Electronics,4,12000,48000,Chennai,UPI
+ORD0154,2026-08-15,Customer 015,Tablet,Electronics,4,18000,72000,Hyderabad,Debit Card
+ORD0255,2026-08-15,Customer 042,Keyboard,Accessories,2,1500,3000,Bengaluru,Credit Card
+ORD0115,2026-08-15,Customer 019,Monitor,Electronics,4,12000,48000,Mumbai,UPI
+ORD0295,2026-08-15,Customer 052,Keyboard,Accessories,3,1500,4500,Delhi,Cash
+ORD0498,2026-08-16,Customer 056,Monitor,Electronics,4,12000,48000,Chennai,Cash
+ORD0368,2026-08-16,Customer 015,Keyboard,Accessories,5,1500,7500,Chennai,Cash
+ORD0177,2026-08-17,Customer 014,Headphones,Accessories,1,2500,2500,Mumbai,Credit Card
+ORD0404,2026-08-19,Customer 032,Mouse,Accessories,2,800,1600,Hyderabad,UPI
+ORD0184,2026-08-19,Customer 027,Keyboard,Accessories,5,1500,7500,Mumbai,UPI
+ORD0440,2026-08-20,Customer 021,Smartphone,Electronics,2,25000,50000,Mumbai,Debit Card
+ORD0436,2026-08-20,Customer 099,Keyboard,Accessories,2,1500,3000,Hyderabad,UPI
+ORD0290,2026-08-21,Customer 096,Tablet,Electronics,2,18000,36000,Bengaluru,Debit Card
+ORD0097,2026-08-21,Customer 019,Keyboard,Accessories,5,1500,7500,Mumbai,UPI
+ORD0352,2026-08-22,Customer 008,Keyboard,Accessories,5,1500,7500,Bengaluru,UPI
+ORD0284,2026-08-23,Customer 045,Tablet,Electronics,5,18000,90000,Bengaluru,UPI
+ORD0258,2026-08-24,Customer 057,Mouse,Accessories,5,800,4000,Mumbai,Debit Card
+ORD0159,2026-08-24,Customer 083,Tablet,Electronics,1,18000,18000,Bengaluru,UPI
+ORD0309,2026-08-24,Customer 084,Mouse,Accessories,1,800,800,Mumbai,UPI
+ORD0174,2026-08-24,Customer 050,Mouse,Accessories,4,800,3200,Pune,UPI
+ORD0225,2026-08-25,Customer 025,Smartwatch,Wearables,2,5000,10000,Hyderabad,Credit Card
+ORD0076,2026-08-25,Customer 001,Mouse,Accessories,1,800,800,Delhi,Debit Card
+ORD0103,2026-08-27,Customer 076,Headphones,Accessories,2,2500,5000,Hyderabad,Credit Card
+ORD0390,2026-08-29,Customer 075,Monitor,Electronics,1,12000,12000,Mumbai,Credit Card
+ORD0292,2026-08-30,Customer 068,Keyboard,Accessories,4,1500,6000,Chennai,Cash
+ORD0472,2026-08-31,Customer 095,Keyboard,Accessories,3,1500,4500,Pune,Cash
+ORD0027,2026-08-31,Customer 086,Monitor,Electronics,3,12000,36000,Mumbai,Credit Card
+ORD0359,2026-09-02,Customer 077,Monitor,Electronics,1,12000,12000,Hyderabad,Debit Card
+ORD0431,2026-09-03,Customer 079,Smartphone,Electronics,3,25000,75000,Delhi,Credit Card
+ORD0334,2026-09-03,Customer 012,Headphones,Accessories,2,2500,5000,Chennai,UPI
+ORD0077,2026-09-04,Customer 067,Smartwatch,Wearables,5,5000,25000,Mumbai,Credit Card
+ORD0137,2026-09-06,Customer 038,Headphones,Accessories,3,2500,7500,Hyderabad,Cash
+ORD0092,2026-09-06,Customer 036,Keyboard,Accessories,1,1500,1500,Bengaluru,UPI
+ORD0407,2026-09-06,Customer 073,Smartphone,Electronics,3,25000,75000,Hyderabad,Debit Card
+ORD0148,2026-09-06,Customer 047,Laptop,Electronics,2,55000,110000,Hyderabad,Credit Card
+ORD0332,2026-09-07,Customer 098,Smartwatch,Wearables,1,5000,5000,Mumbai,Credit Card
+ORD0236,2026-09-07,Customer 036,Smartphone,Electronics,5,25000,125000,Mumbai,Debit Card
+ORD0483,2026-09-08,Customer 092,Keyboard,Accessories,1,1500,1500,Chennai,Debit Card
+ORD0125,2026-09-08,Customer 005,Smartphone,Electronics,2,25000,50000,Hyderabad,Credit Card
+ORD0104,2026-09-10,Customer 007,Smartphone,Electronics,4,25000,100000,Pune,UPI
+ORD0415,2026-09-10,Customer 054,Smartphone,Electronics,1,25000,25000,Hyderabad,Cash
+ORD0089,2026-09-10,Customer 035,Keyboard,Accessories,2,1500,3000,Hyderabad,Credit Card
+ORD0050,2026-09-11,Customer 099,Smartwatch,Wearables,4,5000,20000,Pune,UPI
+ORD0478,2026-09-11,Customer 024,Keyboard,Accessories,4,1500,6000,Bengaluru,Credit Card
+ORD0388,2026-09-11,Customer 025,Monitor,Electronics,1,12000,12000,Bengaluru,Cash
+ORD0214,2026-09-12,Customer 072,Headphones,Accessories,3,2500,7500,Pune,UPI
+ORD0124,2026-09-13,Customer 069,Smartphone,Electronics,3,25000,75000,Hyderabad,Credit Card
+ORD0222,2026-09-13,Customer 094,Monitor,Electronics,5,12000,60000,Hyderabad,Credit Card
+ORD0302,2026-09-14,Customer 058,Keyboard,Accessories,3,1500,4500,Mumbai,Credit Card
+ORD0196,2026-09-14,Customer 046,Laptop,Electronics,3,55000,165000,Delhi,UPI
+ORD0397,2026-09-15,Customer 081,Smartphone,Electronics,4,25000,100000,Chennai,Credit Card
+ORD0286,2026-09-15,Customer 078,Tablet,Electronics,2,18000,36000,Delhi,UPI
+ORD0267,2026-09-16,Customer 006,Laptop,Electronics,1,55000,55000,Delhi,UPI
+ORD0129,2026-09-16,Customer 053,Tablet,Electronics,5,18000,90000,Delhi,UPI
+ORD0492,2026-09-17,Customer 039,Mouse,Accessories,2,800,1600,Bengaluru,Debit Card
+ORD0013,2026-09-17,Customer 054,Mouse,Accessories,2,800,1600,Delhi,Debit Card
+ORD0019,2026-09-18,Customer 041,Laptop,Electronics,3,55000,165000,Mumbai,Debit Card
+ORD0466,2026-09-18,Customer 003,Smartwatch,Wearables,1,5000,5000,Hyderabad,Cash
+ORD0333,2026-09-19,Customer 039,Tablet,Electronics,2,18000,36000,Bengaluru,Debit Card
+ORD0375,2026-09-20,Customer 095,Smartphone,Electronics,1,25000,25000,Mumbai,Credit Card
+ORD0011,2026-09-21,Customer 047,Tablet,Electronics,4,18000,72000,Chennai,Credit Card
+ORD0211,2026-09-21,Customer 029,Keyboard,Accessories,1,1500,1500,Chennai,Cash
+ORD0055,2026-09-21,Customer 027,Monitor,Electronics,3,12000,36000,Chennai,Credit Card
+ORD0398,2026-09-21,Customer 022,Tablet,Electronics,4,18000,72000,Mumbai,Credit Card
+ORD0441,2026-09-21,Customer 059,Tablet,Electronics,2,18000,36000,Pune,Cash
+ORD0395,2026-09-21,Customer 072,Headphones,Accessories,5,2500,12500,Bengaluru,Debit Card
+ORD0366,2026-09-22,Customer 003,Smartwatch,Wearables,2,5000,10000,Delhi,Credit Card
+ORD0451,2026-09-23,Customer 021,Mouse,Accessories,2,800,1600,Mumbai,Cash
+ORD0423,2026-09-24,Customer 050,Laptop,Electronics,2,55000,110000,Delhi,Debit Card
+ORD0272,2026-09-24,Customer 056,Monitor,Electronics,2,12000,24000,Chennai,Debit Card
+ORD0133,2026-09-25,Customer 065,Smartphone,Electronics,3,25000,75000,Pune,Cash
+ORD0231,2026-09-25,Customer 053,Smartwatch,Wearables,2,5000,10000,Bengaluru,UPI
+ORD0094,2026-09-25,Customer 055,Laptop,Electronics,5,55000,275000,Delhi,Debit Card
+ORD0457,2026-09-25,Customer 047,Tablet,Electronics,1,18000,18000,Bengaluru,UPI
+ORD0282,2026-09-26,Customer 045,Headphones,Accessories,1,2500,2500,Hyderabad,UPI
+ORD0452,2026-09-26,Customer 053,Headphones,Accessories,2,2500,5000,Mumbai,Credit Card
+ORD0294,2026-09-27,Customer 064,Headphones,Accessories,2,2500,5000,Delhi,Cash
+ORD0453,2026-09-28,Customer 017,Headphones,Accessories,2,2500,5000,Bengaluru,Debit Card
+ORD0371,2026-09-28,Customer 068,Headphones,Accessories,3,2500,7500,Delhi,UPI
+ORD0304,2026-09-28,Customer 080,Smartwatch,Wearables,4,5000,20000,Chennai,Cash
+ORD0001,2026-09-28,Customer 072,Tablet,Electronics,4,18000,72000,Delhi,UPI
+ORD0095,2026-09-30,Customer 062,Laptop,Electronics,3,55000,165000,Mumbai,Cash
+ORD0172,2026-09-30,Customer 009,Laptop,Electronics,5,55000,275000,Chennai,Debit Card
+ORD0063,2026-09-30,Customer 033,Smartphone,Electronics,2,25000,50000,Hyderabad,Debit Card
